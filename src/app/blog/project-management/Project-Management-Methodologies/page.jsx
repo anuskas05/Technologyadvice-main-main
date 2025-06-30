@@ -200,7 +200,7 @@ export default function ProjectManagementGuide() {
         <div className="absolute bottom-20 left-10 w-20 h-20 sm:w-32 sm:h-32 lg:w-40 lg:h-40 border border-white/5 rounded-full"></div>
 
         {/* Main content container */}
-         <div className="min-h-[70vh] bg-[#2A3F4C] text-white relative overflow-hidden">
+         <div className="min-h-[70vh] bg-[#0E1F1C] text-white relative overflow-hidden">
   {/* Background decorative elements - reduced size */}
   <div className="absolute top-16 right-8 w-24 h-24 sm:w-36 sm:h-36 lg:w-48 lg:h-48 border border-white/10 rounded-full"></div>
   <div className="absolute top-32 right-16 w-12 h-12 sm:w-18 sm:h-18 lg:w-24 lg:h-24 border border-white/5 rounded-full"></div>
