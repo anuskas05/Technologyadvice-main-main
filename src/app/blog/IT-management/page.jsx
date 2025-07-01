@@ -20,7 +20,7 @@ const cards = [
     author: "Chris Mellides",
     date: "June 27, 2025",
     image: "/images/it3.png",
-    link: "/blog/",
+    link: "/blog/IT-management/Best-email-marketing-tools",
   },
   {
     title: "Leadpages vs ClickFunnels: Which Is Best for You?",
@@ -29,7 +29,7 @@ const cards = [
     author: "Stephen Porritt",
     date: "June 26, 2025",
     image: "/images/it4.png",
-    link: "/blog/",
+    link: "/blog/IT-management/Best-email-marketing-tools",
   },
 ];
 

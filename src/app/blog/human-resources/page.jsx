@@ -20,7 +20,7 @@ const cards = [
     author: "Robie Ann Ferrer",
     date: "May 13, 2025",
     image: "/images/hr-2.jpg",
-    link: "/blog/",
+    link: "/blog/human-resources/Best-hr-software-smbs",
   },
   {
     title: "Best Human Resources (HR) Software for Small Businesses in 2025",
@@ -29,7 +29,7 @@ const cards = [
     author: "Robie Ann Ferrer",
     date: "May 5, 2025",
     image: "/images/hr-3.jpg",
-    link: "/blog/",
+    link: "/blog/human-resources/Best-hr-software-smbs",
   },
   {
     title: "Ziprecruiter vs Indeed: 2025 Comparison for Employers",

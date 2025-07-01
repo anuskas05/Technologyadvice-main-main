@@ -19,7 +19,7 @@ const cards = [
     author: "Kara Shear",
     date: "January 4, 2025",
     image: "/images/pm-2.jpeg",
-    link: "/blog/",
+    link: "/blog/project-management/Project-Management-Methodologies",
   },
   {
     title: "Wrike vs. Asana Review: The Complete Guide",
@@ -28,7 +28,7 @@ const cards = [
     author: "Kara Shear",
     date: "December 18, 2024",
     image: "/images/pm-3.jpg",
-    link: "/blog/",
+    link: "/blog/project-management/Project-Management-Methodologies",
   },
   {
     title: "Mind Map Template and Examples",

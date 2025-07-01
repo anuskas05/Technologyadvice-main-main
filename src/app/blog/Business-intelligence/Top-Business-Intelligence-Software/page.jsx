@@ -5,17 +5,11 @@ import {
   Home,
   CheckCircle2,
   Calendar,
-  ChevronDown,
-  ChevronUp,
+  
   Plus,
   Minus,
   ExternalLink,
-  Search,
-  Filter,
-  Star,
-  Users,
-  DollarSign,
-  Clock,
+   
 } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";

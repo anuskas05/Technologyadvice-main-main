@@ -10,7 +10,7 @@ const cards = [
     author: "Brandon Matthews",
     date: "January 16, 2025",
     image: "/images/pm-1.jpeg",
-    link: "/blog/Business-intelligence/Business-Intelligence-Software",
+    link: "/blog/Business-intelligence/Top-Business-Intelligence-Software",
   },
   {
     title: "What is Workflow Automation in Project Management & Why Is It Important?",
@@ -19,7 +19,7 @@ const cards = [
     author: "Kara Shear",
     date: "January 4, 2025",
     image: "/images/pm-2.jpeg",
-    link: "/blog/",
+    link: "/blog/Business-intelligence/Top-Business-Intelligence-Software",
   },
   {
     title: "Wrike vs. Asana Review: The Complete Guide",
@@ -28,7 +28,7 @@ const cards = [
     author: "Kara Shear",
     date: "December 18, 2024",
     image: "/images/pm-3.jpg",
-    link: "/blog/",
+    link: "/blog/Business-intelligence/Top-Business-Intelligence-Software",
   },
   {
     title: "Mind Map Template and Examples",

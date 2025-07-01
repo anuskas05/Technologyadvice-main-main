@@ -43,50 +43,50 @@ const Navbar = () => {
         name: 'Human Resources',
         href: '/blog/human-resources',
         content: [
-          { title: 'Best HR Software for SMBs', href: '/blog/best-hr-software-smbs' },
-          { title: 'Best HRIS Software', href: '/blog/best-hris-software' },
-          { title: 'Should You Upgrade Your HR Software...', href: '/blog/upgrade-hr-software' },
-          { title: 'What Does an HR Consultant Do?', href: '/blog/hr-consultant' }
+          { title: 'Best HR Software for SMBs', href: '/blog/human-resources/Best-hr-software-smbs' },
+          { title: 'Best HRIS Software', href: '/blog/human-resources/Best-hr-software-smbs' },
+          { title: 'Should You Upgrade Your HR Software...', href: '/blog/human-resources/Best-hr-software-smbs' },
+          { title: 'What Does an HR Consultant Do?', href: '/blog/human-resources/Best-hr-software-smbs' }
         ]
       },
       {
         name: 'Project Management',
         href: '/blog/project-management',
         content: [
-          { title: 'monday.com vs. Asana', href: '/blog/monday-vs-asana' },
-          { title: 'Project Plan Examples + Template', href: '/blog/project-plan-examples' },
-          { title: 'Top 5 Project Management Methodologies', href: '/blog/project-management-methodologies' },
-          { title: 'Is the Google Project Management Certificate Worth It?', href: '/blog/google-project-management-certificate' }
+          { title: 'monday.com vs. Asana', href: '/blog/project-management/Project-Management-Methodologies' },
+          { title: 'Project Plan Examples + Template', href: '/blog/project-management/Project-Management-Methodologies' },
+          { title: 'Top 5 Project Management Methodologies', href: '/blog/project-management/Project-Management-Methodologies' },
+          { title: 'Is the Google Project Management Certificate Worth It?', href: '/blog/project-management/Project-Management-Methodologies' }
         ]
       },
       {
         name: 'IT Management',
         href: '/blog/IT-management',
         content: [
-          { title: 'Best VoIP for Small Business', href: '/blog/best-voip-small-business' },
-          { title: 'Best HVAC Apps', href: '/blog/best-hvac-apps' },
-          { title: 'Best Field Service Management Software', href: '/blog/best-field-service-management' },
-          { title: 'Best ITSM Tools', href: '/blog/best-itsm-tools' }
+          { title: 'Best VoIP for Small Business', href: '/blog/IT-management/Best-email-marketing-tools' },
+          { title: 'Best HVAC Apps', href: '/blog/IT-management/Best-email-marketing-tools' },
+          { title: 'Best Field Service Management Software', href: '/blog/IT-management/Best-email-marketing-tools' },
+          { title: 'Best ITSM Tools', href: '/blog/IT-management/Best-email-marketing-tools' }
         ]
       },
       {
         name: 'Business Intelligence',
         href: '/blog/Business-intelligence',
         content: [
-          { title: 'Tableau Alternatives', href: '/blog/tableau-alternatives' },
-          { title: 'Microsoft Power BI Alternatives', href: '/blog/power-bi-alternatives' },
-          { title: 'Best Business Intelligence Dashboards', href: '/blog/best-bi-dashboards' },
-          { title: 'Best Data Storage Solutions', href: '/blog/best-data-storage' }
+          { title: 'Tableau Alternatives', href: 'blog/Business-intelligence/Top-Business-Intelligence-Software' },
+          { title: 'Microsoft Power BI Alternatives', href: 'blog/Business-intelligence/Top-Business-Intelligence-Software' },
+          { title: 'Best Business Intelligence Dashboards', href: 'blog/Business-intelligence/Top-Business-Intelligence-Software' },
+          { title: 'Best Data Storage Solutions', href: 'blog/Business-intelligence/Top-Business-Intelligence-Software' }
         ]
       },
       {
         name: 'Sales & CRM',
-        href: '/blog/sales-crm',
+        href: '/blog/Sales-Crm',
         content: [
-          { title: 'Best Construction CRM', href: '/blog/best-construction-crm' },
-          { title: 'Best Open Source CRM', href: '/blog/best-open-source-crm' },
-          { title: 'Best CRM Certifications and Courses', href: '/blog/best-crm-certifications' },
-          { title: 'Best AI CRM', href: '/blog/best-ai-crm' }
+          { title: 'Best Construction CRM', href: '/blog/Sales-Crm/Credit-card' },
+          { title: 'Best Open Source CRM', href: '/blog/Sales-Crm/Credit-card' },
+          { title: 'Best CRM Certifications and Courses', href: '/blog/Sales-Crm/Credit-card' },
+          { title: 'Best AI CRM', href: '/blog/Sales-Crm/Credit-card' }
         ]
       }
     ]
