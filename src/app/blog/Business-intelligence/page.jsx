@@ -10,7 +10,7 @@ const cards = [
     author: "Brandon Matthews",
     date: "January 16, 2025",
     image: "/images/pm-1.jpeg",
-    link: "/blog/project-management/Project-Management-Methodologies",
+    link: "/blog/Business-intelligence/Business-Intelligence-Software",
   },
   {
     title: "What is Workflow Automation in Project Management & Why Is It Important?",
