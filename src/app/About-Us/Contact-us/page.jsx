@@ -126,7 +126,7 @@ export default function ContactPage() {
 
         <div className="rounded-2xl overflow-hidden shadow-md relative">
           <Image
-            src="/images/nashville.webp"
+            src="/images/Nashville.webp"
             alt="Nashville office"
             width={1200}
             height={600}
