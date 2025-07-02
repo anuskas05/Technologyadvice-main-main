@@ -94,10 +94,10 @@ const Navbar = () => {
 
   // About Us dropdown data
   const aboutUs = [
-    { name: 'About Us', href: '/about' },
-    { name: 'Contact Us', href: '/contact' },
-    { name: 'Careers', href: '/careers' },
-    { name: 'Marketing Solutions', href: '/marketing-solutions' }
+    { name: 'About Us', href: '/About-Us/about-us' },
+    { name: 'Contact Us', href: '/About-Us/Contact-us' },
+    { name: 'Careers', href: '/About-Us/Careers' },
+     
   ];
 
   // Search functionality
